@@ -11,6 +11,9 @@
     /* ---------------------------------------
     ##### - PLACE YOUR CUSTOM CSS HERE - #####
     --------------------------------------- */
+body {
+    background-color: #1a1a1a;
+}
 
 .dropdown {
     width: 460px !important;
